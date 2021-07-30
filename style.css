@@ -9,7 +9,7 @@ body {
   justify-content: center;
   align-items: center;
   min-height: 100vh;
-  background: #091921;
+  background: #1a1a1a;
 }
 
 .clock {
@@ -20,7 +20,7 @@ body {
   align-items: center;
   background: url(clock.png);
   background-size: cover;
-  border: 4px solid #091921;
+  border: 4px solid #1a1a1a;
   border-radius: 50%;
   box-shadow: 0 -15px 15px rgba(255,255,255,0.05),
               inset 0 -15px 15px rgba(255,255,255,0.05),
@@ -72,7 +72,7 @@ body {
   position: absolute;
   width: 7px;
   height: 80px;
-  background: #ff105e;
+  background: #DB4437;
   z-index: 10;
   border-radius: 6px 6px 0 0;
 }
@@ -82,7 +82,7 @@ body {
   position: absolute;
   width: 4px;
   height: 90px;
-  background: #888888;
+  background: #4285F4;
   z-index: 11;
   border-radius: 6px 6px 0 0;
 }
@@ -92,7 +92,7 @@ body {
   position: absolute;
   width: 2px;
   height: 150px;
-  background: #fff;
+  background: #0F9D58;
   z-index: 12;
   border-radius: 6px 6px 0 0;
 }
